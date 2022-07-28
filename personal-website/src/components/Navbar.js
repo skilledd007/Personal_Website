@@ -26,11 +26,14 @@ function Navbar() {
     <>
         <nav className='navbar'>
            <div className='navbar-container'>
+           <i className='fa-times'></i>
             <Link to='/' className='navbar-logo' onClick={closeMobileMenu}> 
                Amrit Mahendrarajah <i className='fab fa-typo3'/> 
             </Link>
+            
             <div className='menu-icon' onClick={handleClick}>
                 <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
+                
             </div>
             <ul className={click ? 'nav-menu active' : 'nav-menu'}> 
                <li className='nav-item'>
