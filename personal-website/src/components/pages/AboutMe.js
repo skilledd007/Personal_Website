@@ -10,9 +10,6 @@ export default function AboutMe() {
             <figure className='cards__item__pic-wrap'>
               <img src={image5} alt="Travel Image" className='cards__item__img'></img>
             </figure>
-            <div className='cards__item__info'>
-              <h5 className='cards_item_text' > A nice Picture of Me </h5>
-            </div>
           </div>
         </li>
 
