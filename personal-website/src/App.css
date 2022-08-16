@@ -42,10 +42,8 @@
 
   
   .aboutme {
-    background-image: url('images/img-8.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    color: #fff;
+    box-sizing: border-box;
+    padding: 20px;
+    color: #000000;
     font-size: 50px;
   }
