@@ -6,7 +6,9 @@ export default function AboutMe() {
     return (<> 
     <h1 className='aboutme'> ABOUT ME </h1> 
       <div className="div"> 
-        <p> Example text for a description of who I am </p>
+        <p> My fascination with Engineering began at a very young Age. I still have fond memories of sitting on the couch as a wide-eyed and optimistic 6 year old being positively
+          enthralled by BBC's Top Gear.  
+           </p>
         <img src={image5} alt="Travel Image" className='myPicture'></img>
        
       </div>     
