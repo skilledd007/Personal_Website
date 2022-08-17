@@ -5,8 +5,8 @@ import './AboutMe.css'
 export default function AboutMe() {
     return (<> 
     <h1 className='aboutme'> ABOUT ME </h1> 
-      <div> 
-        
+      <div className="div"> 
+        <p> Example text for a description of who I am </p>
         <img src={image5} alt="Travel Image" className='myPicture'></img>
        
       </div>     

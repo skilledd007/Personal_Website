@@ -108,6 +108,20 @@
     border-radius: 6px;
   }
   
+  p {
+    position: relative;
+    left: 35%;
+    top: 20px;
+    width: 100%;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 5;
+  }
+
+  .div {
+    display: inline-block;
+  }
+  
   @media only screen and (min-width: 1200px) {
     .content__blog__container {
       width: 84%;
