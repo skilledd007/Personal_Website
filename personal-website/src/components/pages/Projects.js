@@ -3,9 +3,7 @@ import '../../App.css'
 
 export default function Projects() {
     return (<> 
-    <h1 className='projects'> PROJECTS </h1> 
-      <div className="image-container">
-        
-      </div>
+    <h1 className='page-name-projects'> PROJECTS </h1> 
+      
     </>)
 }

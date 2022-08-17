@@ -4,7 +4,7 @@ import image5 from '../../images/myWebsitePic.jpg'
 import './AboutMe.css'
 export default function AboutMe() {
     return (<> 
-    <h1 className='aboutme'> ABOUT ME </h1> 
+    <h1 className='page-name-aboutme'> ABOUT ME </h1> 
       <div className="div"> 
         <p> My fascination with Engineering began at a very young Age. I still have fond memories of sitting on the couch as a wide-eyed and optimistic 6 year old being positively
           enthralled by BBC's Top Gear.  

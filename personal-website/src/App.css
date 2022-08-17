@@ -41,7 +41,14 @@
   }
 
   
-  .aboutme {
+  .page-name-aboutme {
+    box-sizing: border-box;
+    padding: 20px;
+    color: #000000;
+    font-size: 50px;
+  }
+
+  .page-name-projects {
     box-sizing: border-box;
     padding: 20px;
     color: #000000;
