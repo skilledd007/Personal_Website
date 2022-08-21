@@ -54,4 +54,18 @@
     color: #000000;
     font-size: 50px;
   }
+
+  .page-name-advancer {
+    box-sizing: border-box;
+    padding: 20px;
+    color: #000000;
+    font-size: 50px;
+  }
+
+  .page-name-nosTicket {
+    box-sizing: border-box;
+    padding: 20px;
+    color: #000000;
+    font-size: 50px;
+  }
   
